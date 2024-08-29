@@ -1,0 +1,110 @@
+h1{
+   
+    color:rgb(236, 138, 10);
+    padding-bottom: 20px;
+    
+    padding-top: 30px;
+    display: inline;
+ 
+    }
+*{
+margin: 0px;
+    padding: 0;
+}
+.logo  {
+width: 90px;
+height: 90px;
+margin-right: 30px;
+border-radius: 100%;
+}
+.logo img{
+    
+}
+
+a:hover{
+    color: yellow;
+}
+.titile{
+margin-bottom:20px;
+}
+
+
+.header{
+    background-color: black;
+    color: white;
+    padding: 3px;
+}
+li,ol{
+display: inline;
+
+}
+li a{
+    pad: 20px;
+    color: white;
+    text-decoration: none;
+}
+ol {
+   margin-left: 70%;
+   color: white;
+}
+.sk{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    display:inline-block ;
+    margin: center;
+}
+.sk img{
+    border-radius: 13px;
+    width: 600px;
+    height: 400px;
+    cursor: pointer;
+    text-align: center;
+    border: 20px solid rgb(red, green, blue);
+    margin: 10px;
+    transition: 450ms;
+}
+ li{
+    display: inline;
+    color: white;
+    text-align: left 30px;
+    padding-inline: 10px;
+    font-size: x-largez;
+    margin: left 55%;
+    
+    }
+    li:hover{
+        color:bisque;
+    }
+    .saro{
+        padding-top: 250px;
+        font-size: large;
+        text-align:justify;
+        margin-left: 200px;
+        color:greenyellow;
+
+    }
+    body{
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-position: center;
+    }
+.sk{
+    background-color: bisque;
+}
+.las{
+    color: rgb(50, 137, 214);
+    margin-top: 300px;
+    margin-left: 600px;
+}
+.sam{
+  
+    color:black;
+    margin-top: 9px;
+    margin-left: 700px;
+}
+.uk{
+    display: flex;
+}
